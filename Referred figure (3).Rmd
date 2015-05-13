@@ -75,3 +75,7 @@ ggplot(fig3, aes(x = factor(time), y = estimate, group = factor(access), colour 
   theme(axis.ticks = element_blank(), panel.border=element_blank(), axis.line = element_blank(), panel.grid.major = element_blank(), panel.grid.minor = element_blank(), legend.justification=c(.9,0), legend.position=c(.82,0), legend.text = element_text(size = 6), legend.title = element_text(size = 6), legend.background = element_rect(fill="gray90", size=.25, linetype="dotted"), axis.title.y = element_text(size=9)) 
 ggsave("fig3_dots.pdf")
 ```
+
+<div class="jumbotron">
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+</div>
