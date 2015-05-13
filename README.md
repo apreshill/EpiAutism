@@ -10,3 +10,7 @@ These figures are updated versions of earlier ones that appeared in a published 
 **Key Words:** *epidemiology, prevalence, incidence, Autism, Autism Spectrum, time trends, DSM-5, cross-cultural comparison*
 
 The chapter includes a lot more discussion of the figures. Please note that all figures utilize hypothetical data to illustrate methodological constructs.
+
+<div class="jumbotron">
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+</div>
