@@ -1,7 +1,7 @@
 # EpiAutism
 These figures are updated versions of earlier ones that appeared in a published book chapter:
 
-> Hill, A. P., Zuckerman, K., & Fombonne, E. (2014). Epidemiological studies of autism and pervasive developmental disorders. In F. Volkmar (Ed.), *Handbook of autism and pervasive developmental disorders* (4th edition). New York: Wiley & Sons.
+> Hill, A. P., Zuckerman, K., & Fombonne, E. (2014). <a href="http://www.amazon.com/Pervasive-Developmental-Disorders-Development-Mechanisms/dp/1118107020/ref=sr_1_2?s=books&ie=UTF8&qid=1431538697&sr=1-2&keywords=handbook+autism+volume+1">Epidemiological studies of autism and pervasive developmental disorders.</a> In F. Volkmar (Ed.), *Handbook of autism and pervasive developmental disorders* (4th edition). New York: Wiley & Sons.
 
 **Abstract**:
 
